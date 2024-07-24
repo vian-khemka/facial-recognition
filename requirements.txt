@@ -11,3 +11,8 @@ tensorflow.keras.optimizers
 tensorflow.keras.callbacks
 tensorflow.keras.utils
 IPython.display
+tkinter
+tkinter.filedialog
+tensorflow.keras.models.model_from_json
+PIL
+numpy
